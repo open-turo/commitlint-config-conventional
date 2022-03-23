@@ -1,0 +1,29 @@
+{
+  "name": "@open-turo/commitlint-config-conventional",
+  "version": "1.0.0",
+  "description": "open-turo version of config-conventional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Skipped: no tests\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-turo/commitlint-config-conventional.git"
+  },
+  "keywords": [
+    "commitlint"
+  ],
+  "author": "Turo Engineering",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-turo/commitlint-config-conventional/issues"
+  },
+  "homepage": "https://github.com/open-turo/commitlint-config-conventional#readme",
+  "dependencies": {
+    "@commitlint/config-conventional": "^16.2.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.6.0"
+  }
+}
