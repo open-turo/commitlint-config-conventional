@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "open-turo version of config-conventional",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Skipped: no tests\" && exit 0"
   },
