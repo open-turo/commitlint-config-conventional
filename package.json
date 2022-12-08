@@ -1,6 +1,6 @@
 {
   "name": "@open-turo/commitlint-config-conventional",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "open-turo version of config-conventional",
   "main": "index.js",
   "publishConfig": {
