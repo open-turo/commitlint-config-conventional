@@ -16,6 +16,7 @@ repos:
     hooks:
       - id: prettier
         stages: [commit]
+        exclude: "index.js"
   - repo: https://github.com/alessandrojcm/commitlint-pre-commit-hook
     rev: v8.0.0
     hooks:
