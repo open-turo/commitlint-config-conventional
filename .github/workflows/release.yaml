@@ -47,7 +47,7 @@ jobs:
         with:
           repository: rhysd/actionlint
       - name: Semantic release
-        uses: cycjimmy/semantic-release-action@v2
+        uses: cycjimmy/semantic-release-action@v3
         with:
           extra_plugins: |
             semantic-release-github-pullrequest
