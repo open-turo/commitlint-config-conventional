@@ -30,8 +30,8 @@
     "@commitlint/config-conventional": "^21.0.2"
   },
   "devDependencies": {
-    "@open-turo/eslint-config-typescript": "23.1.6",
-    "eslint": "9.39.4",
-    "prettier": "3.9.4"
+    "@open-turo/eslint-config-typescript": "23.1.13",
+    "eslint": "9.39.5",
+    "prettier": "3.9.6"
   }
 }
